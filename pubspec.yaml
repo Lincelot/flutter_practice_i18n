@@ -23,6 +23,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/app1/
+    - assets/services/
 
   # To add assets to your package, add an assets section, like this:
   # assets:
